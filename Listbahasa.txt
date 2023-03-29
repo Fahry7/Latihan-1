@@ -1,5 +1,5 @@
 daftar bahasa pemprogramman
 -php
--python
+-java
 -c++
--vcode
+-javascript
