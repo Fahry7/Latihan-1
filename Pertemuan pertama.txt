@@ -1,7 +1,7 @@
 KULIAH WEB PRO 2
 -Belajar github
 -Belajar framework Js
- ^ANGULAR
+ ^CODE Js
 -Mengenal framework PHP
  ^ LARAVEL
  ^ CODE IGNITER
