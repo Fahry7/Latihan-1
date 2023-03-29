@@ -1,0 +1,4 @@
+NAMA : SANZ
+UMUR : 23
+BB   : 50
+TB   : 180
